@@ -7,3 +7,5 @@ Workflow:
 - Find the principal component. This will give us a time series.
 - Use delay coordinate embedding to potentially reconstruct the attractor.
 - Find the differential equation responsible for that attractor.
+
+
